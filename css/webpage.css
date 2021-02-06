@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.main{
+	width: 1000px;
+	height: 1500px;
+	margin: auto;
+	border: 3px solid;
+}
+.topbar{
+	
+	height: 50px;
+	background-color: blue;
+	line-height: 50px;
+
+}
+.space{
+	width: 970px;
+	margin: auto;
+}
